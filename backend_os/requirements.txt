@@ -1,0 +1,11 @@
+asgiref
+certifi
+cloudinary
+Django
+django-cors-headers
+django-filter
+djangorestframework
+Markdown
+pytz
+sqlparse
+urllib3
